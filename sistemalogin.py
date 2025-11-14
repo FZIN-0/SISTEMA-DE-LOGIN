@@ -27,7 +27,7 @@ login_correto = "Fabricio"
 senha_correta = "sukuna123"
 
 print(cor("=== 🎓 BEM-VINDO AO SISTEMA DE LOGIN ESCOLAR ===", "azul"))
-print_com_animacao("Você tem 3 tentativas para acertar o login e a senha. Dica: tente lembrar daquele post-it grudado perto do monitor! 😅\n")
+print_com_animacao("Você tem 3 tentativas para acertar o login e a senha.😅\n")
 
 tentativas = 3
 
